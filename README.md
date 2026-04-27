@@ -1,25 +1,68 @@
-## Bem-vindo(a) ao perfil da Isis Jardim 😊
 
- <div>
-   <a href="https://github.com/isisjardim">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isisjardim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisjardim&layout=compact&langs_count=6&theme=cobalt"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
+# Hi, I'm Isis Jardim 👋🏾
 
-  <a href="https://instagram.com/isisjardim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/isisjardim_87799" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:isinha.jardim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a> 
-  <a href="https://www.linkedin.com/in/isis-jardim-385399346/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+**Junior Front-End Developer** transitioning from a 12-year career in Clinical Dentistry.  
+I build responsive, accessible and user-centered web interfaces using **HTML5, CSS3, JavaScript and Git**.
+
+My healthcare background gives me a strong perspective on **patient experience, usability, accessibility and problem-solving** — skills I now apply to digital products, especially in **Health Tech, SaaS and web applications**.
+
+---
+
+## 🚀 Tech Stack
+
+<div>
+  <img align="center" alt="HTML5" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Git" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+
+---
+
+## 💻 Currently Learning
+
+- JavaScript ES6+
+- DOM Manipulation
+- API consumption with Fetch
+- Responsive Web Design
+- Accessibility — WCAG
+- React fundamentals
+
+---
+
+## 📌 Featured Projects
+
+### GitHub Profile Viewer
+A JavaScript project that consumes the GitHub API to search users and display profile information.
+
+**Tech:** HTML5, CSS3, JavaScript, Fetch API, DOM Manipulation  
+🔗 [View repository](https://github.com/isisjardim/visualizador-perfil-github)
+
+### SyntaxWear E-commerce
+Responsive e-commerce landing page focused on layout structure, visual design and CSS organization.
+
+**Tech:** HTML5, CSS3, Responsive Design  
+🔗 [View repository](https://github.com/isisjardim/ecommerce-syntaxwear)
+
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <a href="https://github.com/isisjardim">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isisjardim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisjardim&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 🌍 Let's Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/isisjardim)
+- 🧑🏾‍💻 [GitHub](https://github.com/isisjardim)
+
+---
+
+✨ Open to Junior Front-End Developer opportunities, especially in Portugal, Europe and remote roles.
