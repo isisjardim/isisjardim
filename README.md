@@ -2,7 +2,7 @@
 # Hi, I'm Isis Jardim 👋🏾
 
 **Junior Front-End Developer** transitioning from a 12-year career in Clinical Dentistry.  
-I build responsive, accessible and user-centered web interfaces using **HTML5, CSS3, JavaScript and Git**.
+I develop responsive, accessible and user-centered web interfaces using **HTML5, CSS3, JavaScript and Git**.
 
 My healthcare background gives me a strong perspective on **patient experience, usability, accessibility and problem-solving** — skills I now apply to digital products, especially in **Health Tech, SaaS and web applications**.
 
