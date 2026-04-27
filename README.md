@@ -10,6 +10,9 @@ My healthcare background gives me a strong perspective on **patient experience, 
 
 ## 🚀 Tech Stack
 
+HTML5 • CSS3 • JavaScript • Git • GitHub  
+Responsive Design • Accessibility (WCAG)
+
 <div>
   <img align="center" alt="HTML5" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
